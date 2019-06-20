@@ -1,0 +1,119 @@
+##
+# This gets included by the main model file to model the repeated vents and lights on the east wall
+##
+
+
+obj chair1 Objects/BlackChair.obj
+trans 190 32 20
+rotate 0.0 0.0 1.0 0.0
+
+obj chair2 Objects/BlackChair.obj
+trans 155 32 20
+rotate 10.0 0.0 1.0 0.0
+
+obj chair3 Objects/BlackChair.obj
+trans 80 32 20
+rotate 0.0 0.0 1.0 0.0
+
+obj chair4 Objects/BlackChair.obj
+trans 45 32 20
+rotate -15.0 0.0 1.0 0.0
+
+obj chair5 Objects/BlackChair.obj
+trans -40 32 20
+rotate 15.0 0.0 1.0 0.0
+
+obj chair6 Objects/BlackChair.obj
+trans -80 32 30
+rotate 0.0 0.0 1.0 0.0
+
+
+obj chair7 Objects/BlackChair.obj
+trans 190 32 -60
+rotate 0.0 0.0 1.0 0.0
+
+obj chair8 Objects/BlackChair.obj
+trans 155 32 -60
+rotate 10.0 0.0 1.0 0.0
+
+obj chair9 Objects/BlackChair.obj
+trans 80 32 -60
+rotate 0.0 0.0 1.0 0.0
+
+obj chair10 Objects/BlackChair.obj
+trans 45 32 -60
+rotate -15.0 0.0 1.0 0.0
+
+obj chair11 Objects/BlackChair.obj
+trans -40 32 -60
+rotate 15.0 0.0 1.0 0.0
+
+obj chair12 Objects/BlackChair.obj
+trans -80 32 -60
+rotate 0.0 0.0 1.0 0.0
+
+
+obj chair13 Objects/BlackChair.obj
+trans 190 32 -140
+rotate 0.0 0.0 1.0 0.0
+
+obj chair14 Objects/BlackChair.obj
+trans 155 32 -140
+rotate 10.0 0.0 1.0 0.0
+
+obj chair15 Objects/BlackChair.obj
+trans 80 32 -140
+rotate 0.0 0.0 1.0 0.0
+
+obj chair16 Objects/BlackChair.obj
+trans 45 32 -140
+rotate -15.0 0.0 1.0 0.0
+
+obj chair17 Objects/BlackChair.obj
+trans -40 32 -140
+rotate 15.0 0.0 1.0 0.0
+
+obj chair18 Objects/BlackChair.obj
+trans -80 32 -140
+rotate 0.0 0.0 1.0 0.0
+
+
+obj chair19 Objects/BlackChair.obj
+trans 190 32 -220
+rotate 0.0 0.0 1.0 0.0
+
+obj chair20 Objects/BlackChair.obj
+trans 155 32 -220
+rotate 10.0 0.0 1.0 0.0
+
+obj chair21 Objects/BlackChair.obj
+trans 80 32 -220
+rotate 0.0 0.0 1.0 0.0
+
+obj chair22 Objects/BlackChair.obj
+trans 45 32 -220
+rotate -15.0 0.0 1.0 0.0
+
+obj chair23 Objects/BlackChair.obj
+trans -40 32 -220
+rotate 15.0 0.0 1.0 0.0
+
+obj chair24 Objects/BlackChair.obj
+trans -80 32 -220
+rotate 0.0 0.0 1.0 0.0
+
+obj chair25 Objects/BlackChair.obj
+trans 80 32 -300
+rotate 0.0 0.0 1.0 0.0
+
+obj chair26 Objects/BlackChair.obj
+trans 45 32 -300
+rotate -15.0 0.0 1.0 0.0
+
+obj chair27 Objects/BlackChair.obj
+trans -40 32 -300
+rotate 15.0 0.0 1.0 0.0
+
+obj chair28 Objects/BlackChair.obj
+trans -80 32 -300
+rotate 0.0 0.0 1.0 0.0

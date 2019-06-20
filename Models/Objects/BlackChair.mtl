@@ -1,0 +1,21 @@
+#Produced by Art of Illusion 2.3.1, Sun Sep 17 18:39:19 MDT 2006
+newmtl Back_Legs
+Kd 0.3198 0.339 0.2831
+Ks 0 0 0
+Ka 0 0 0
+illum 1
+newmtl Chrome
+Kd 0.9 0.9 0.9
+Ks 0 0 0
+Ka 0 0 0
+illum 1
+newmtl Cushion
+Kd 0.13 0.14 0.09
+Ks 0 0 0
+Ka 0 0 0
+illum 1
+newmtl Backing
+Kd 0.1882 0.196 0.1411
+Ks 0 0 0
+Ka 0 0 0
+illum 1

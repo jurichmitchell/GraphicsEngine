@@ -1,0 +1,7 @@
+# This represents the rendering scene. It loads .obj files and translate and rotate them to the desired position
+
+obj building Objects/Classroom.obj
+
+include PanelLights.model
+
+include Windows.model

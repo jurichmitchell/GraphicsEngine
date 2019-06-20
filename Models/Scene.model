@@ -1,0 +1,51 @@
+# This represents the rendering scene. It loads .obj files and translate and rotate them to the desired position
+
+obj building Objects/Classroom.obj
+
+include PanelLights.model
+include Windows.model
+include Tables.model
+include Chairs.model
+ 
+
+obj whiteboard1 Objects/WhiteBoard.obj
+trans 150 55 163.025
+rotate 180.0 1.0 0.0 0.0
+
+#obj whiteboard2 Objects/WhiteBoard.obj
+#trans 55 55 163.025
+#rotate 180.0 1.0 0.0 0.0
+
+obj TV Objects/wall-flat-tv.obj
+trans 55 58 163
+rotate 180.0 1.0 0.0 0.0
+scale 0.8 0.7 0.7
+
+obj whiteboard3 Objects/WhiteBoard.obj
+trans -40 55 163.025
+rotate 180.0 1.0 0.0 0.0
+
+obj door Objects/door.obj
+trans 196.5 0 -300
+rotate -90.0 0.0 1.0 0.0
+scale 0.5 0.385 0.385
+
+obj table Objects/desk.obj
+trans 182 21 115
+scale 0.6 0.5 0.5
+
+
+obj PC Objects/apple_pc.obj
+trans 180 36.75 115
+rotate -25.0 0.0 1.0 .0
+scale 10 10 10
+
+obj TeacherChair Objects/bar_chair.obj
+trans 184 38 137
+rotate -120.0 0.0 1.0 0.0
+scale 0.5 0.4 0.5
+
+obj Clock Objects/clock.obj
+trans 60 65 -340
+rotate 90.0 1.0 0.0 0.0
+scale 0.5 0.5 0.5

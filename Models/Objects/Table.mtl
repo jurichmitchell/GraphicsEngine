@@ -1,0 +1,7 @@
+#Produced by Art of Illusion 2.3.1, Mon Nov 13 21:25:23 MST 2006
+newmtl Image_Wood
+Kd 1 1 1 
+map_Kd ../Textures/TableTop.tga
+Ks 0 0 0
+Ka 0 0 0
+illum 1

@@ -1,0 +1,105 @@
+##
+# This gets included by the main model file to model the panel lights on the ceiling of the classroom
+##
+
+obj panelLight01 Objects/PanelLight.obj
+trans 163 86.8 135.0
+
+light longLight_01 0.6 0.5 0.5
+trans 163 86.8 135.0
+
+obj panelLight02 Objects/PanelLight.obj
+trans 163 86.8 -9.0
+
+light longLight_02 0.6 0.5 0.5
+trans 163 86.8 -9.0
+
+obj panelLight03 Objects/PanelLight.obj
+trans 163 86.8 -153.0
+
+light longLight_03 0.6 0.5 0.5
+trans 163 86.8 -153.0
+
+obj panelLight04 Objects/PanelLight.obj
+trans 163 86.8 -297.0
+
+light longLight_04 0.6 0.5 0.5
+trans 163 86.8 -297.0
+
+
+
+obj panelLight5 Objects/PanelLight.obj
+trans 91 86.8 135.0
+
+light longLight_05 0.6 0.5 0.5
+trans 91 86.8 135.0
+
+obj panelLight6 Objects/PanelLight.obj
+trans 91 86.8 -9.0
+
+light longLight_06 0.6 0.5 0.5
+trans 91 86.8 -9.0
+
+obj panelLight7 Objects/PanelLight.obj
+trans 91 86.8 -153.0
+
+light longLight_07 0.6 0.5 0.5
+trans 91 86.8 -153.0
+
+obj panelLight8 Objects/PanelLight.obj
+trans 91 86.8 -297.0
+
+light longLight_08 0.6 0.5 0.5
+trans 91 86.8 -297.0
+
+
+obj panelLight9 Objects/PanelLight.obj
+trans 19.0 86.8 135.0
+
+light panelLight_09 0.6 0.5 0.5
+trans 19.0 86.8 135.0
+
+obj panelLight10 Objects/PanelLight.obj
+trans 19.0 86.8 -9.0
+
+light panelLight_10 0.6 0.5 0.5
+trans 19.0 86.8 -9.0
+
+obj panelLight11 Objects/PanelLight.obj
+trans 19.0 86.8 -153.0
+
+light longLight_11 0.6 0.5 0.5
+trans 19.0 86.8 -153.0
+
+obj panelLight12 Objects/PanelLight.obj
+trans 19.0 86.8 -297.0
+
+light panelLight_12 0.6 0.5 0.5
+trans 19.0 86.8 -297.0
+
+
+obj panelLight13 Objects/PanelLight.obj
+trans -53.0 86.8 135.0
+
+light panelLight_13 0.6 0.5 0.5
+trans -53.0 86.8 135.0
+
+obj panelLight14 Objects/PanelLight.obj
+trans -53.0 86.8 -9.0
+
+light panelLight_14 0.6 0.5 0.5
+trans -53.0 86.8 -9.0
+
+obj panelLight15 Objects/PanelLight.obj
+trans -53.0 86.8 -153.0
+
+light panelLight_15 0.6 0.5 0.5
+trans -53.0 86.8 -153.0
+
+obj panelLight16 Objects/PanelLight.obj
+trans -53.0 86.8 -297.0
+
+light panelLight_16 0.6 0.5 0.5
+trans -53.0 86.8 -297.0
+
+

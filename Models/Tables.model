@@ -1,0 +1,60 @@
+##
+# This gets included by the main model file to model the tables in the classroom
+##
+
+obj table1 Objects/Table.obj
+trans 170 24.25 60
+rotate 0.0 0.0 1.0 0.0
+
+
+obj table2 Objects/Table.obj
+trans 60 24.25 60
+rotate 0.0 0.0 1.0 0.0
+
+obj table3 Objects/Table.obj
+trans -60 24.25 60
+rotate 0.0 0.0 1.0 0.0
+
+obj table4 Objects/Table.obj
+trans 170 24.25 -20
+rotate 0.0 0.0 1.0 0.0
+
+obj table5 Objects/Table.obj
+trans 60 24.25 -20
+rotate 0.0 0.0 1.0 0.0
+
+obj table6 Objects/Table.obj
+trans -60 24.25 -20
+rotate 0.0 0.0 1.0 0.0
+
+obj table7 Objects/Table.obj
+trans 170 24.25 -100
+rotate 0.0 0.0 1.0 0.0
+
+obj table8 Objects/Table.obj
+trans 60 24.25 -100
+rotate 0.0 0.0 1.0 0.0
+
+obj table9 Objects/Table.obj
+trans -60 24.25 -100
+rotate 0.0 0.0 1.0 0.0
+
+obj table10 Objects/Table.obj
+trans 170 24.25 -180
+rotate 0.0 0.0 1.0 0.0
+
+obj table11 Objects/Table.obj
+trans 60 24.25 -180
+rotate 0.0 0.0 1.0 0.0
+
+obj table12 Objects/Table.obj
+trans -60 24.25 -180
+rotate 0.0 0.0 1.0 0.0
+
+obj table13 Objects/Table.obj
+trans 60 24.25 -260
+rotate 0.0 0.0 1.0 0.0
+
+obj table14 Objects/Table.obj
+trans -60 24.25 -260
+rotate 0.0 0.0 1.0 0.0

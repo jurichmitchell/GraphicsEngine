@@ -1,0 +1,26 @@
+#Produced by Art of Illusion 2.3.1, Tue Sep 19 18:52:03 MDT 2006
+newmtl Black_Top
+Kd 0.1 0.1 0.1
+Ks 0 0 0
+Ka 0 0 0
+illum 1
+newmtl Brown_Top
+Kd 0.58 0.35 0.06
+Ks 0 0 0
+Ka 0 0 0
+illum 1
+newmtl Metal
+Kd 0.447 0.498 0.4404
+Ks 0 0 0
+Ka 0 0 0
+illum 1
+newmtl White
+Kd 0.9 0.9 0.9
+Ks 0 0 0
+Ka 0 0 0
+illum 1
+newmtl White1
+Kd 0.96 0.96 0.96
+Ks 1 1 1
+Ka 0 0 0
+illum 1

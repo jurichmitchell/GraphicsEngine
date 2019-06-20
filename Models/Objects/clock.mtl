@@ -1,0 +1,18 @@
+# Blender3D MTL File: clock_yafaray.blend
+newmtl black
+Ka 0 0 0
+Kd 0.15 0.15 0.15
+Ks 0 0 0
+illum 1
+
+newmtl red
+Ka 0 0 0
+Kd 0.7 0.2 0.2 
+Ks 0 0 0
+illum 1
+
+newmtl smoked_glas
+Ka 0 0 0 
+Kd 0.880000 0.880000 0.900000
+Ks 0 0 0
+illum 1

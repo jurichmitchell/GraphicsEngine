@@ -1,0 +1,4 @@
+
+obj whiteboard1 Objects/WhiteBoard.obj
+trans 150 55 163.025
+rotate 180.0 1.0 0.0 0.0

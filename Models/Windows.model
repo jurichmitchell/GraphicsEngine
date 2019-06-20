@@ -1,0 +1,28 @@
+##
+# This gets included by the main model file to model the repeated windows on the east wall
+##
+
+obj window1 Objects/Window.obj
+trans -102 72 88
+rotate 90.0 0.0 1.0 0.0
+scale 1.0 1.0 1.75
+
+obj window2 Objects/Window.obj
+trans -102 72 -8
+rotate 90.0 0.0 1.0 0.0
+scale 1.0 1.0 1.75
+
+obj window3 Objects/Window.obj
+trans -102 72 -106
+rotate 90.0 0.0 1.0 0.0
+scale 1.0 1.0 1.75
+
+obj window4 Objects/Window.obj
+trans -102 72 -204
+rotate 90.0 0.0 1.0 0.0
+scale 1.0 1.0 1.75
+
+#obj window5 Objects/Win.obj
+#trans 208.95 68 -294
+#rotate 90.0 0.0 1.0 0.0
+#scale 0.18 0.4 3.0
